@@ -63,7 +63,7 @@ These methods will be tested by checking their output against several test cases
 
 ## Turning it in
 
-When you have finished this lab, upload it to [turnerinner.com/@mrmaycs](https://turnerinner.com/@mrmaycs)
+When you have finished this lab, find the assignment in schoology, there will be a link to upload the file and put a screenshot into the schoology assignment.
 
 ## Hints
 
